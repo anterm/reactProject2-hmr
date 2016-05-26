@@ -8,8 +8,8 @@
 
 ### Как начать:
 
-1. git clone https://github.com/anterm/reactProject1
-1. cd reactProject1
+1. git clone https://github.com/anterm/reactProject2
+1. cd reactProject2
 1. npm install
 1. npm start
 
